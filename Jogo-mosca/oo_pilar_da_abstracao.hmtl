@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ES6</title>
+	<meta charset="utf-8">
+</head>
+<body>
+
+	<script type="text/javascript">
+		
+		let quadrado = (x) => {
+			return x * x
+		}
+
+		document.write(quadrado(3))
+
+	</script>
+
+</body>
+</html>
